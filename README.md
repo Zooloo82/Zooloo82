@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zooloo82
+- 👋 Hi, I’m Yury
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning programing and work
 - 💞️ I’m looking to collaborate on 
