@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yury
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning programing and work
+- 🌱 I’m currently learning programing on Java and work driver
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on email: zooloo19822009@gmail.com
 
